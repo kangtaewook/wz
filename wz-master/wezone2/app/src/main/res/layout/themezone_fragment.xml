@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="#fff"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/relativelayout_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageView_mythemezone"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/ic_thema_tit"
+            android:layout_marginLeft="20dp"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="나의 테마존"
+            android:layout_centerVertical="true"
+            android:layout_toEndOf="@+id/imageView_mythemezone" />
+
+
+    </RelativeLayout>
+
+
+    <GridView
+        android:id="@+id/gridview"
+        android:layout_below="@id/relativelayout_header"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:drawSelectorOnTop="true"
+        android:gravity="center"
+        android:listSelector="#00000000"
+        android:numColumns="2"
+        android:verticalSpacing="2dip"
+        android:horizontalSpacing="2dip"
+        android:stretchMode="columnWidth"
+        android:scrollbars="none"
+        android:overScrollMode="never"
+        android:fadingEdgeLength="0dp"/>
+
+    <include
+        android:id="@+id/list_noresult"
+        android:visibility="gone"
+        layout="@layout/list_noresult" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_btn_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/ic_thema_download"
+        app:backgroundTint="#fff" />
+
+</RelativeLayout>

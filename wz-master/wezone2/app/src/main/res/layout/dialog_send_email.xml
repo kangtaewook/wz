@@ -1,0 +1,86 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/dialog"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:textStyle="bold"
+            android:text="@string/input_email_title"
+            android:textColor="#646262"
+            android:textSize="15sp" />
+        
+         <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="1dp"-->
+            <!--android:background="#e8e8e8"-->
+            <!--android:orientation="horizontal" >-->
+            <!---->
+         <!--</LinearLayout>-->
+         
+        <EditText
+            android:id="@+id/textview_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/white_in_boarder"
+            android:hint="@string/email"
+            android:maxLines="1"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:textSize="13sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/input_email"
+            android:padding="10dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#e8e8e8"
+            android:orientation="horizontal" >
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/linearlayout_btn_send"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/ok"
+                android:textSize="18sp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:textStyle="bold"
+                android:textColor="@color/login_btn_bottom" />
+        </LinearLayout>
+
+         <!--<Button-->
+                <!--android:id="@+id/btn_send"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="40dp"-->
+                <!--android:layout_marginBottom="10dp"-->
+                <!--android:text="send"-->
+                <!--android:textColor="@android:color/white"-->
+                <!--android:textSize="13sp" />-->
+    </LinearLayout>
+
+</LinearLayout>

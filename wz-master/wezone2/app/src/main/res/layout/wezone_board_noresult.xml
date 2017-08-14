@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/gray">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/flexible_space_wezone_header"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/im_zone_lock"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#8e8e8e"
+            android:textSize="15sp"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:text="꽃길을 달려와 입장하시면\n 더 많은 콘텐츠를 보실 수 있습니다"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/ic_https_black"/>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

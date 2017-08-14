@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "642391102732",
+    "firebase_url": "https://wezone-2e56a.firebaseio.com",
+    "project_id": "wezone-2e56a",
+    "storage_bucket": "wezone-2e56a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642391102732:android:882f42201e18abf6",
+        "android_client_info": {
+          "package_name": "com.vinetech.wezone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642391102732-hnrunrgint53omcgobpg0ngl2egd923u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmfYKPXw3_mkkrJ1DMfcShLS1pp39DRT4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

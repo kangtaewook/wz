@@ -1,0 +1,93 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:background="@drawable/dialog"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:text="@string/change_password"
+            android:textColor="#646262"
+            android:textSize="15sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="20dp"
+            android:background="#e8e8e8"
+            android:orientation="horizontal" >
+
+        </LinearLayout>
+         
+         <TextView
+            android:id="@+id/textview_desc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10dp"
+             android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="13sp" />
+         
+         
+        <EditText
+            android:id="@+id/edittext_userpass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/white_in_boarder"
+            android:hint="@string/password"
+            android:maxLines="1"
+            android:inputType="textPassword"
+            android:padding="10dp"
+            android:layout_margin="10dp"
+            android:textSize="13sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="20dp"
+            android:background="#e8e8e8"
+            android:orientation="horizontal" >
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/linearlayout_btn_edit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/change"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="@color/login_btn_bottom" />
+        </LinearLayout>
+         <!--<Button-->
+                <!--android:id="@+id/btn_change"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="40dp"-->
+                <!--android:layout_marginBottom="10dp"-->
+                <!--android:text="edit"-->
+                <!--android:textColor="@android:color/white"-->
+                <!--android:textSize="13sp" />-->
+    </LinearLayout>
+
+</LinearLayout>

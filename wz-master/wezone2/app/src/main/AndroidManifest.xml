@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.vinetech.wezone">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="com.galuster.langtudy.permission.C2D_MESSAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-feature
+        android:name="android.hardware.bluetooth_le"
+        android:required="true" />
+
+    <application
+        android:name=".ShareApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:launchMode="singleTask"
+        android:noHistory="true"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.sec.android.support.multiwindow"
+            android:value="true" />
+
+        <!-- Splash -->
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Login -->
+        <activity
+            android:name=".Login.LoginActivity"
+            android:windowSoftInputMode="adjustPan|stateAlwaysHidden" />
+        <activity
+            android:name=".Login.LoginPasswordActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name=".Login.SignPasswordActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name=".Login.SignNameActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name=".Login.SignConfirmActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.kakao.sdk.AppKey"
+            android:value="@string/kakao_app_key" />
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/app_id" />
+
+        <provider
+            android:name="com.facebook.FacebookContentProvider"
+            android:authorities="com.facebook.app.${applicationId}.FacebookContentProvider"
+            android:exported="true" />
+
+        <activity
+            android:name=".Common.Activity_PhotoPicker_Folder"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Common.Activity_PhotoPicker_Photo"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Common.Activity_ImageEditor"
+            android:screenOrientation="portrait" />
+        <!-- android:screenOrientation="portrait"  이미지액티비티 회전은 되어야함. -->
+        <activity
+            android:name=".Common.Activity_ImageCrop"
+            android:screenOrientation="portrait" />
+        <activity android:name=".Common.CameraActivity" />
+
+        <!-- Main -->
+        <activity
+            android:name=".Main.MainActivity"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".Wezone.WezoneManagerActivity"
+            android:launchMode="singleTask"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity android:name=".Wezone.WezoneDistanceActivity" />
+        <activity android:name=".Theme.ThemeManageActivity" />
+        <activity android:name=".Theme.ThemeDetailActivity" />
+        <activity android:name=".Theme.ThemeSelectActivity" />
+        <activity
+            android:name=".Bunnyzone.BunnyZoneManageActivity"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity
+            android:name=".Beacon.BeaconManageActivity"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity android:name=".Setting.SettingActivity" />
+        <activity android:name=".Setting.SettingPasswordActivity" />
+        <activity android:name=".Setting.HelpActivity" />
+        <activity android:name=".Beacon.BeaconDetailSettingActivity" />
+        <activity android:name=".Bunnyzone.BunnyZoneActivity" />
+        <activity android:name=".Beacon.BeaconSelectActivity" />
+        <activity android:name=".Wezone.WezoneActivity" />
+        <activity android:name=".Wezone.WezoneLocationManagerActivity" />
+        <activity android:name=".Wezone.WriteReviewActivity" />
+        <activity
+            android:name=".Wezone.WriteBoardActivity"
+            android:configChanges="orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity android:name=".Profile.ProfileActivity" />
+        <activity android:name=".Profile.EditProfileActivity" />
+        <activity android:name=".Common.EditTextActivity" />
+        <activity android:name=".Common.SelectNotificationActivity" />
+        <activity android:name=".Beacon.BeaconActivity" />
+        <activity
+            android:name=".Wezone.WezoneSearchActivity"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity android:name=".Profile.UserSelectActivity" />
+        <activity android:name=".Profile.LocalUserSelectActivity" />
+        <activity android:name=".Profile.FriendListActivity" />
+        <activity android:name=".Profile.SearchUserActivity" />
+        <activity android:name=".Profile.MyProfileActivity" />
+        <activity android:name=".Wezone.WezoneBoardDetailActivity" />
+        <activity
+            android:name=".Wezone.AppNotification"
+            android:label="@string/title_activity_app_notification"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".Message.MessageListActivity" />
+        <activity
+            android:name=".Message.ChattingActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:windowSoftInputMode="adjustResize" />
+        <activity android:name=".Common.Activity_WebView" />
+        <activity
+            android:name=".Beacon.Activity_SosEditor"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity android:name=".Beacon.BeaconScanActivity" />
+        <activity android:name=".Gcm.PopupActivity" />
+        <activity android:name=".Common.Activity_Email_Push" />
+
+        <service
+            android:name="com.vinetech.beacon.BluetoothLeService"
+            android:enabled="true" />
+        <service
+            android:name="com.vinetech.beacon.BluetoothUpdateService"
+            android:exported="false" />
+        <service
+            android:name="com.vinetech.beacon.DfuService"
+            android:exported="false" />
+        <service android:name=".Fcm.FirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name=".Fcm.FirebaseInstanceIDService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity android:name=".Theme.ThemeActivity" />
+        <activity android:name=".Theme.ThemeZoneManageActivity" />
+        <activity android:name=".Theme.StartBeaconSelectActivity" />
+        <activity android:name=".Notice.NoticeActivity" />
+        <activity android:name=".Wezone.WezoneNoticeSelectActivity" />
+        <activity android:name=".Beacon.BeaconSharedActivity" />
+        <activity android:name=".Beacon.BeaconDFUActivity" />
+        <activity android:name=".Common.CountDownActivity"
+            android:theme="@style/Theme.AppCompat.Translucent"></activity>
+    </application>
+
+</manifest>

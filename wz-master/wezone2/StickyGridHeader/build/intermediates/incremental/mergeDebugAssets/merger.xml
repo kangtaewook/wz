@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\test\wz-master\wezone2\StickyGridHeader\assets"/><source path="C:\test\wz-master\wezone2\StickyGridHeader\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\test\wz-master\wezone2\StickyGridHeader\src\debug\assets"/></dataSet></merger>

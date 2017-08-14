@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffff"
+    android:orientation="horizontal"
+    android:gravity="center_vertical" >
+
+<!--     	android:layout_marginLeft="@dimen/padding_size_38px"
+    	android:layout_marginRight="@dimen/padding_size_30px"
+    	android:layout_marginTop="@dimen/padding_size_30px"
+    	android:layout_marginBottom="@dimen/padding_size_30px" -->    
+    
+        
+        <!-- android:background="@drawable/img_board_small_image" -->
+        
+    <ImageView android:id="@+id/photopicker_imgview" 
+        android:layout_width="75dp"
+    	android:layout_height="75dp"
+    	android:contentDescription="@string/app_name"/>
+
+    <TextView android:id="@+id/photopicker_textview" 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="1dp"
+        android:paddingLeft="15dp"
+        android:gravity="center_vertical"
+        android:background="#ffffff"
+        android:maxLines="1"
+        android:textColor="@android:color/black"
+        android:textSize="13sp"
+        android:ellipsize="end"
+        />
+        
+</LinearLayout>

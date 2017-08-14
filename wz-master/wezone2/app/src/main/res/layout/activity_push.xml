@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity__push"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.vinetech.wezone.Common.Activity_PUSH">
+
+    <include
+        android:id="@+id/header_layout"
+        layout="@layout/header_layout" />
+
+    <LinearLayout
+        android:layout_below="@+id/header_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text = "Push 메세지 내용"/>
+
+        <EditText
+            android:id="@+id/edittext_email_push_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="PUSH 메세지를 입력해주세요"/>
+
+
+
+
+        </LinearLayout>
+
+
+
+
+
+</RelativeLayout>

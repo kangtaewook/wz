@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity__email__push"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.vinetech.wezone.Common.Activity_Email_Push">
+
+
+    <include
+        android:id="@+id/header_layout"
+        layout="@layout/header_layout" />
+
+
+    <LinearLayout
+        android:layout_below="@+id/header_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+            
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="이메일 주소"
+                android:textColor="@color/notification_text_title_color"/>
+            
+            <EditText
+                android:id="@+id/edittext_email_push_mail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="위 이메일 주소로 알림 메일이 발송 됩니다."/>
+            
+            
+        </LinearLayout>
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"></LinearLayout>
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+            
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="알림 메세지"
+                android:paddingBottom="10dp"
+                android:textColor="@color/notification_text_title_color"/>
+            
+            <EditText
+                android:id="@+id/edittext_email_push_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+        </LinearLayout>
+            
+            
+        </LinearLayout>
+        
+
+
+</RelativeLayout>

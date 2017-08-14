@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="weple_main_color">#5c8bdd</color>
+
+    <color name="navi_blue">#0C9BEA </color>
+    <color name="navi_red">#DF3C61 </color>
+    <color name="navi_yellow">#F4BB1B </color>
+
+    <drawable name="translucent_background">#50000000</drawable>
+    <drawable name="transparent_background">#00000000</drawable>
+
+    <drawable name="emoticon_tab_on">#DCDADA</drawable>
+    <drawable name="emoticon_tab_off">#C7C7C7</drawable>
+
+    <color name="login_btn_textcolor">#669cf8</color>
+    <color name="login_btn_bottom">#669cf8</color>
+
+    <color name="gray">#eeeeee</color>
+
+    <color name="notification_text_title_color">#212121</color>
+    <color name="notification_text_title_selected_color">#2789ff</color>
+    <color name="notification_text_desc_color">#9e9e9e</color>
+    <color name="notification_text_desc_selected_color">#2789ff</color>
+    <color name="notification_text_not_use_color">#757575</color>
+
+    <color name="my_wezone_list">#fff</color>
+    <color name="near_wezone_list">#f0f2f7</color>
+
+    <color name="wezone_enry_btn">#FF2222</color>
+</resources>

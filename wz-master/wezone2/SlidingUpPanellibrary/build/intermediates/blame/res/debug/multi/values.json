@@ -1,0 +1,3058 @@
+[
+    {
+        "outputFile": "D:\\project\\wezone\\SlidingUpPanellibrary\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1184,
+                    "endColumn": 57,
+                    "endOffset": 1237
+                },
+                "from": {
+                    "file": "D:\\project\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 130,
+                        "endColumn": 57,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1242,
+                    "endColumn": 55,
+                    "endOffset": 1293
+                },
+                "from": {
+                    "file": "D:\\project\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 55,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1298,
+                    "endColumn": 53,
+                    "endOffset": 1347
+                },
+                "from": {
+                    "file": "D:\\project\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 611,
+                        "endColumn": 53,
+                        "endOffset": 660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1352,
+                    "endColumn": 52,
+                    "endOffset": 1400
+                },
+                "from": {
+                    "file": "D:\\project\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 496,
+                        "endColumn": 52,
+                        "endOffset": 544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1405,
+                    "endColumn": 59,
+                    "endOffset": 1460
+                },
+                "from": {
+                    "file": "D:\\project\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 59,
+                        "endOffset": 605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1465,
+                    "endColumn": 58,
+                    "endOffset": 1519
+                },
+                "from": {
+                    "file": "D:\\project\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endColumn": 58,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1524,
+                    "endColumn": 61,
+                    "endOffset": 1581
+                },
+                "from": {
+                    "file": "D:\\project\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 61,
+                        "endOffset": 845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1586,
+                    "endColumn": 60,
+                    "endOffset": 1642
+                },
+                "from": {
+                    "file": "D:\\project\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 726,
+                        "endColumn": 60,
+                        "endOffset": 782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1647,
+                    "endColumn": 48,
+                    "endOffset": 1691
+                },
+                "from": {
+                    "file": "D:\\project\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 955,
+                        "endColumn": 48,
+                        "endOffset": 999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1696,
+                    "endColumn": 50,
+                    "endOffset": 1742
+                },
+                "from": {
+                    "file": "D:\\project\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1005,
+                        "endColumn": 50,
+                        "endOffset": 1051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1747,
+                    "endColumn": 74,
+                    "endOffset": 1817
+                },
+                "from": {
+                    "file": "C:\\Users\\galuster\\.android\\build-cache\\f62466d93ffc80bebeff3fb36e22b3033862cadf\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 74,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1822,
+                    "endColumn": 75,
+                    "endOffset": 1893
+                },
+                "from": {
+                    "file": "C:\\Users\\galuster\\.android\\build-cache\\f62466d93ffc80bebeff3fb36e22b3033862cadf\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 75,
+                        "endOffset": 473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1898,
+                    "endColumn": 71,
+                    "endOffset": 1965
+                },
+                "from": {
+                    "file": "C:\\Users\\galuster\\.android\\build-cache\\f62466d93ffc80bebeff3fb36e22b3033862cadf\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 478,
+                        "endColumn": 71,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1970,
+                    "endColumn": 48,
+                    "endOffset": 2014
+                },
+                "from": {
+                    "file": "D:\\project\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 340,
+                        "endColumn": 48,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2019,
+                    "endColumn": 42,
+                    "endOffset": 2057
+                },
+                "from": {
+                    "file": "D:\\project\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 296,
+                        "endColumn": 42,
+                        "endOffset": 334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2062,
+                    "endColumn": 46,
+                    "endOffset": 2104
+                },
+                "from": {
+                    "file": "D:\\project\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 46,
+                        "endOffset": 290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2109,
+                    "endColumn": 53,
+                    "endOffset": 2158
+                },
+                "from": {
+                    "file": "D:\\project\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 855,
+                        "endColumn": 53,
+                        "endOffset": 904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2163,
+                    "endColumn": 55,
+                    "endOffset": 2214
+                },
+                "from": {
+                    "file": "D:\\project\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1104,
+                        "endColumn": 55,
+                        "endOffset": 1155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2219,
+                    "endColumn": 43,
+                    "endOffset": 2258
+                },
+                "from": {
+                    "file": "D:\\project\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1059,
+                        "endColumn": 43,
+                        "endOffset": 1098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2263,
+                    "endColumn": 41,
+                    "endOffset": 2300
+                },
+                "from": {
+                    "file": "D:\\project\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 910,
+                        "endColumn": 41,
+                        "endOffset": 947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2305,
+                    "endColumn": 47,
+                    "endOffset": 2348
+                },
+                "from": {
+                    "file": "D:\\project\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endColumn": 47,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2353,
+                    "endColumn": 51,
+                    "endOffset": 2400
+                },
+                "from": {
+                    "file": "D:\\project\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 443,
+                        "endColumn": 51,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2405,
+                    "endColumn": 65,
+                    "endOffset": 2466
+                },
+                "from": {
+                    "file": "C:\\Users\\galuster\\.android\\build-cache\\f62466d93ffc80bebeff3fb36e22b3033862cadf\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 65,
+                        "endOffset": 611
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\wezon\\wezone2\\SlidingUpPanellibrary\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1184,
+                    "endColumn": 57,
+                    "endOffset": 1237
+                },
+                "from": {
+                    "file": "C:\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 130,
+                        "endColumn": 57,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1242,
+                    "endColumn": 55,
+                    "endOffset": 1293
+                },
+                "from": {
+                    "file": "C:\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 55,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1298,
+                    "endColumn": 53,
+                    "endOffset": 1347
+                },
+                "from": {
+                    "file": "C:\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 611,
+                        "endColumn": 53,
+                        "endOffset": 660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1352,
+                    "endColumn": 52,
+                    "endOffset": 1400
+                },
+                "from": {
+                    "file": "C:\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 496,
+                        "endColumn": 52,
+                        "endOffset": 544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1405,
+                    "endColumn": 59,
+                    "endOffset": 1460
+                },
+                "from": {
+                    "file": "C:\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 59,
+                        "endOffset": 605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1465,
+                    "endColumn": 58,
+                    "endOffset": 1519
+                },
+                "from": {
+                    "file": "C:\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endColumn": 58,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1524,
+                    "endColumn": 61,
+                    "endOffset": 1581
+                },
+                "from": {
+                    "file": "C:\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 61,
+                        "endOffset": 845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1586,
+                    "endColumn": 60,
+                    "endOffset": 1642
+                },
+                "from": {
+                    "file": "C:\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 726,
+                        "endColumn": 60,
+                        "endOffset": 782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1647,
+                    "endColumn": 48,
+                    "endOffset": 1691
+                },
+                "from": {
+                    "file": "C:\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 955,
+                        "endColumn": 48,
+                        "endOffset": 999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1696,
+                    "endColumn": 50,
+                    "endOffset": 1742
+                },
+                "from": {
+                    "file": "C:\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1005,
+                        "endColumn": 50,
+                        "endOffset": 1051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1747,
+                    "endColumn": 74,
+                    "endOffset": 1817
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\.android\\build-cache\\14a4296f810e915282ac767b28df882414de49b1\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 74,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1822,
+                    "endColumn": 75,
+                    "endOffset": 1893
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\.android\\build-cache\\14a4296f810e915282ac767b28df882414de49b1\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 75,
+                        "endOffset": 473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1898,
+                    "endColumn": 71,
+                    "endOffset": 1965
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\.android\\build-cache\\14a4296f810e915282ac767b28df882414de49b1\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 478,
+                        "endColumn": 71,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1970,
+                    "endColumn": 48,
+                    "endOffset": 2014
+                },
+                "from": {
+                    "file": "C:\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 340,
+                        "endColumn": 48,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2019,
+                    "endColumn": 42,
+                    "endOffset": 2057
+                },
+                "from": {
+                    "file": "C:\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 296,
+                        "endColumn": 42,
+                        "endOffset": 334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2062,
+                    "endColumn": 46,
+                    "endOffset": 2104
+                },
+                "from": {
+                    "file": "C:\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 46,
+                        "endOffset": 290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2109,
+                    "endColumn": 53,
+                    "endOffset": 2158
+                },
+                "from": {
+                    "file": "C:\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 855,
+                        "endColumn": 53,
+                        "endOffset": 904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2163,
+                    "endColumn": 55,
+                    "endOffset": 2214
+                },
+                "from": {
+                    "file": "C:\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1104,
+                        "endColumn": 55,
+                        "endOffset": 1155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2219,
+                    "endColumn": 43,
+                    "endOffset": 2258
+                },
+                "from": {
+                    "file": "C:\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1059,
+                        "endColumn": 43,
+                        "endOffset": 1098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2263,
+                    "endColumn": 41,
+                    "endOffset": 2300
+                },
+                "from": {
+                    "file": "C:\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 910,
+                        "endColumn": 41,
+                        "endOffset": 947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2305,
+                    "endColumn": 47,
+                    "endOffset": 2348
+                },
+                "from": {
+                    "file": "C:\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endColumn": 47,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2353,
+                    "endColumn": 51,
+                    "endOffset": 2400
+                },
+                "from": {
+                    "file": "C:\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 443,
+                        "endColumn": 51,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2405,
+                    "endColumn": 65,
+                    "endOffset": 2466
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\.android\\build-cache\\14a4296f810e915282ac767b28df882414de49b1\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 65,
+                        "endOffset": 611
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\aaaa8\\Desktop\\wezon\\wezone2\\SlidingUpPanellibrary\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1184,
+                    "endColumn": 57,
+                    "endOffset": 1237
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 130,
+                        "endColumn": 57,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1242,
+                    "endColumn": 55,
+                    "endOffset": 1293
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 55,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1298,
+                    "endColumn": 53,
+                    "endOffset": 1347
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 611,
+                        "endColumn": 53,
+                        "endOffset": 660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1352,
+                    "endColumn": 52,
+                    "endOffset": 1400
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 496,
+                        "endColumn": 52,
+                        "endOffset": 544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1405,
+                    "endColumn": 59,
+                    "endOffset": 1460
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 59,
+                        "endOffset": 605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1465,
+                    "endColumn": 58,
+                    "endOffset": 1519
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endColumn": 58,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1524,
+                    "endColumn": 61,
+                    "endOffset": 1581
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 61,
+                        "endOffset": 845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1586,
+                    "endColumn": 60,
+                    "endOffset": 1642
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 726,
+                        "endColumn": 60,
+                        "endOffset": 782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1647,
+                    "endColumn": 48,
+                    "endOffset": 1691
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 955,
+                        "endColumn": 48,
+                        "endOffset": 999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1696,
+                    "endColumn": 50,
+                    "endOffset": 1742
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1005,
+                        "endColumn": 50,
+                        "endOffset": 1051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1747,
+                    "endColumn": 74,
+                    "endOffset": 1817
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\.android\\build-cache\\14a4296f810e915282ac767b28df882414de49b1\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 74,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1822,
+                    "endColumn": 75,
+                    "endOffset": 1893
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\.android\\build-cache\\14a4296f810e915282ac767b28df882414de49b1\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 75,
+                        "endOffset": 473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1898,
+                    "endColumn": 71,
+                    "endOffset": 1965
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\.android\\build-cache\\14a4296f810e915282ac767b28df882414de49b1\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 478,
+                        "endColumn": 71,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1970,
+                    "endColumn": 48,
+                    "endOffset": 2014
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 340,
+                        "endColumn": 48,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2019,
+                    "endColumn": 42,
+                    "endOffset": 2057
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 296,
+                        "endColumn": 42,
+                        "endOffset": 334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2062,
+                    "endColumn": 46,
+                    "endOffset": 2104
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 46,
+                        "endOffset": 290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2109,
+                    "endColumn": 53,
+                    "endOffset": 2158
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 855,
+                        "endColumn": 53,
+                        "endOffset": 904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2163,
+                    "endColumn": 55,
+                    "endOffset": 2214
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1104,
+                        "endColumn": 55,
+                        "endOffset": 1155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2219,
+                    "endColumn": 43,
+                    "endOffset": 2258
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1059,
+                        "endColumn": 43,
+                        "endOffset": 1098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2263,
+                    "endColumn": 41,
+                    "endOffset": 2300
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 910,
+                        "endColumn": 41,
+                        "endOffset": 947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2305,
+                    "endColumn": 47,
+                    "endOffset": 2348
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endColumn": 47,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2353,
+                    "endColumn": 51,
+                    "endOffset": 2400
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\wezon\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 443,
+                        "endColumn": 51,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2405,
+                    "endColumn": 65,
+                    "endOffset": 2466
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\.android\\build-cache\\14a4296f810e915282ac767b28df882414de49b1\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 65,
+                        "endOffset": 611
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\wezone\\wezone\\SlidingUpPanellibrary\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1184,
+                    "endColumn": 57,
+                    "endOffset": 1237
+                },
+                "from": {
+                    "file": "D:\\wezone\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 130,
+                        "endColumn": 57,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1242,
+                    "endColumn": 55,
+                    "endOffset": 1293
+                },
+                "from": {
+                    "file": "D:\\wezone\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 55,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1298,
+                    "endColumn": 53,
+                    "endOffset": 1347
+                },
+                "from": {
+                    "file": "D:\\wezone\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 611,
+                        "endColumn": 53,
+                        "endOffset": 660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1352,
+                    "endColumn": 52,
+                    "endOffset": 1400
+                },
+                "from": {
+                    "file": "D:\\wezone\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 496,
+                        "endColumn": 52,
+                        "endOffset": 544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1405,
+                    "endColumn": 59,
+                    "endOffset": 1460
+                },
+                "from": {
+                    "file": "D:\\wezone\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 59,
+                        "endOffset": 605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1465,
+                    "endColumn": 58,
+                    "endOffset": 1519
+                },
+                "from": {
+                    "file": "D:\\wezone\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endColumn": 58,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1524,
+                    "endColumn": 61,
+                    "endOffset": 1581
+                },
+                "from": {
+                    "file": "D:\\wezone\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 726,
+                        "endColumn": 61,
+                        "endOffset": 783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1586,
+                    "endColumn": 48,
+                    "endOffset": 1630
+                },
+                "from": {
+                    "file": "D:\\wezone\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 893,
+                        "endColumn": 48,
+                        "endOffset": 937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1635,
+                    "endColumn": 50,
+                    "endOffset": 1681
+                },
+                "from": {
+                    "file": "D:\\wezone\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 943,
+                        "endColumn": 50,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1686,
+                    "endColumn": 74,
+                    "endOffset": 1756
+                },
+                "from": {
+                    "file": "D:\\wezone\\wezone\\SlidingUpPanellibrary\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\23.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 74,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1761,
+                    "endColumn": 75,
+                    "endOffset": 1832
+                },
+                "from": {
+                    "file": "D:\\wezone\\wezone\\SlidingUpPanellibrary\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\23.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 75,
+                        "endOffset": 473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1837,
+                    "endColumn": 71,
+                    "endOffset": 1904
+                },
+                "from": {
+                    "file": "D:\\wezone\\wezone\\SlidingUpPanellibrary\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\23.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 478,
+                        "endColumn": 71,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1909,
+                    "endColumn": 48,
+                    "endOffset": 1953
+                },
+                "from": {
+                    "file": "D:\\wezone\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 340,
+                        "endColumn": 48,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1958,
+                    "endColumn": 42,
+                    "endOffset": 1996
+                },
+                "from": {
+                    "file": "D:\\wezone\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 296,
+                        "endColumn": 42,
+                        "endOffset": 334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2001,
+                    "endColumn": 46,
+                    "endOffset": 2043
+                },
+                "from": {
+                    "file": "D:\\wezone\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 46,
+                        "endOffset": 290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2048,
+                    "endColumn": 53,
+                    "endOffset": 2097
+                },
+                "from": {
+                    "file": "D:\\wezone\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 793,
+                        "endColumn": 53,
+                        "endOffset": 842
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2102,
+                    "endColumn": 55,
+                    "endOffset": 2153
+                },
+                "from": {
+                    "file": "D:\\wezone\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1042,
+                        "endColumn": 55,
+                        "endOffset": 1093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2158,
+                    "endColumn": 43,
+                    "endOffset": 2197
+                },
+                "from": {
+                    "file": "D:\\wezone\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 997,
+                        "endColumn": 43,
+                        "endOffset": 1036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2202,
+                    "endColumn": 41,
+                    "endOffset": 2239
+                },
+                "from": {
+                    "file": "D:\\wezone\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 848,
+                        "endColumn": 41,
+                        "endOffset": 885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2244,
+                    "endColumn": 47,
+                    "endOffset": 2287
+                },
+                "from": {
+                    "file": "D:\\wezone\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endColumn": 47,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2292,
+                    "endColumn": 51,
+                    "endOffset": 2339
+                },
+                "from": {
+                    "file": "D:\\wezone\\wezone\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 443,
+                        "endColumn": 51,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2344,
+                    "endColumn": 65,
+                    "endOffset": 2405
+                },
+                "from": {
+                    "file": "D:\\wezone\\wezone\\SlidingUpPanellibrary\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\23.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 65,
+                        "endOffset": 611
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\aaaa8\\Desktop\\test\\wezone2\\SlidingUpPanellibrary\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1184,
+                    "endColumn": 57,
+                    "endOffset": 1237
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\test\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 130,
+                        "endColumn": 57,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1242,
+                    "endColumn": 55,
+                    "endOffset": 1293
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\test\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 55,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1298,
+                    "endColumn": 53,
+                    "endOffset": 1347
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\test\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 611,
+                        "endColumn": 53,
+                        "endOffset": 660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1352,
+                    "endColumn": 52,
+                    "endOffset": 1400
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\test\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 496,
+                        "endColumn": 52,
+                        "endOffset": 544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1405,
+                    "endColumn": 59,
+                    "endOffset": 1460
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\test\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 59,
+                        "endOffset": 605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1465,
+                    "endColumn": 58,
+                    "endOffset": 1519
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\test\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endColumn": 58,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1524,
+                    "endColumn": 61,
+                    "endOffset": 1581
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\test\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 61,
+                        "endOffset": 845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1586,
+                    "endColumn": 60,
+                    "endOffset": 1642
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\test\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 726,
+                        "endColumn": 60,
+                        "endOffset": 782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1647,
+                    "endColumn": 48,
+                    "endOffset": 1691
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\test\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 955,
+                        "endColumn": 48,
+                        "endOffset": 999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1696,
+                    "endColumn": 50,
+                    "endOffset": 1742
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\test\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1005,
+                        "endColumn": 50,
+                        "endOffset": 1051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1747,
+                    "endColumn": 74,
+                    "endOffset": 1817
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\.android\\build-cache\\14a4296f810e915282ac767b28df882414de49b1\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 74,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1822,
+                    "endColumn": 75,
+                    "endOffset": 1893
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\.android\\build-cache\\14a4296f810e915282ac767b28df882414de49b1\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 75,
+                        "endOffset": 473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1898,
+                    "endColumn": 71,
+                    "endOffset": 1965
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\.android\\build-cache\\14a4296f810e915282ac767b28df882414de49b1\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 478,
+                        "endColumn": 71,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1970,
+                    "endColumn": 48,
+                    "endOffset": 2014
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\test\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 340,
+                        "endColumn": 48,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2019,
+                    "endColumn": 42,
+                    "endOffset": 2057
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\test\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 296,
+                        "endColumn": 42,
+                        "endOffset": 334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2062,
+                    "endColumn": 46,
+                    "endOffset": 2104
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\test\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 46,
+                        "endOffset": 290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2109,
+                    "endColumn": 53,
+                    "endOffset": 2158
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\test\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 855,
+                        "endColumn": 53,
+                        "endOffset": 904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2163,
+                    "endColumn": 55,
+                    "endOffset": 2214
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\test\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1104,
+                        "endColumn": 55,
+                        "endOffset": 1155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2219,
+                    "endColumn": 43,
+                    "endOffset": 2258
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\test\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1059,
+                        "endColumn": 43,
+                        "endOffset": 1098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2263,
+                    "endColumn": 41,
+                    "endOffset": 2300
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\test\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 910,
+                        "endColumn": 41,
+                        "endOffset": 947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2305,
+                    "endColumn": 47,
+                    "endOffset": 2348
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\test\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endColumn": 47,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2353,
+                    "endColumn": 51,
+                    "endOffset": 2400
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\Desktop\\test\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 443,
+                        "endColumn": 51,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2405,
+                    "endColumn": 65,
+                    "endOffset": 2466
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\.android\\build-cache\\14a4296f810e915282ac767b28df882414de49b1\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 65,
+                        "endOffset": 611
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\test\\wz-master\\wezone2\\SlidingUpPanellibrary\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1184,
+                    "endColumn": 57,
+                    "endOffset": 1237
+                },
+                "from": {
+                    "file": "C:\\test\\wz-master\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 127,
+                        "endColumn": 57,
+                        "endOffset": 180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1242,
+                    "endColumn": 55,
+                    "endOffset": 1293
+                },
+                "from": {
+                    "file": "C:\\test\\wz-master\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 55,
+                        "endOffset": 236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1298,
+                    "endColumn": 53,
+                    "endOffset": 1347
+                },
+                "from": {
+                    "file": "C:\\test\\wz-master\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 596,
+                        "endColumn": 53,
+                        "endOffset": 645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1352,
+                    "endColumn": 52,
+                    "endOffset": 1400
+                },
+                "from": {
+                    "file": "C:\\test\\wz-master\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 483,
+                        "endColumn": 52,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1405,
+                    "endColumn": 59,
+                    "endOffset": 1460
+                },
+                "from": {
+                    "file": "C:\\test\\wz-master\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endColumn": 59,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1465,
+                    "endColumn": 58,
+                    "endOffset": 1519
+                },
+                "from": {
+                    "file": "C:\\test\\wz-master\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 650,
+                        "endColumn": 58,
+                        "endOffset": 704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1524,
+                    "endColumn": 61,
+                    "endOffset": 1581
+                },
+                "from": {
+                    "file": "C:\\test\\wz-master\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 770,
+                        "endColumn": 61,
+                        "endOffset": 827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1586,
+                    "endColumn": 60,
+                    "endOffset": 1642
+                },
+                "from": {
+                    "file": "C:\\test\\wz-master\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 709,
+                        "endColumn": 60,
+                        "endOffset": 765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1647,
+                    "endColumn": 48,
+                    "endOffset": 1691
+                },
+                "from": {
+                    "file": "C:\\test\\wz-master\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 931,
+                        "endColumn": 48,
+                        "endOffset": 975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1696,
+                    "endColumn": 50,
+                    "endOffset": 1742
+                },
+                "from": {
+                    "file": "C:\\test\\wz-master\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 980,
+                        "endColumn": 50,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1747,
+                    "endColumn": 74,
+                    "endOffset": 1817
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\.android\\build-cache\\14a4296f810e915282ac767b28df882414de49b1\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 74,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1822,
+                    "endColumn": 75,
+                    "endOffset": 1893
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\.android\\build-cache\\14a4296f810e915282ac767b28df882414de49b1\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 75,
+                        "endOffset": 473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1898,
+                    "endColumn": 71,
+                    "endOffset": 1965
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\.android\\build-cache\\14a4296f810e915282ac767b28df882414de49b1\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 478,
+                        "endColumn": 71,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1970,
+                    "endColumn": 48,
+                    "endOffset": 2014
+                },
+                "from": {
+                    "file": "C:\\test\\wz-master\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 332,
+                        "endColumn": 48,
+                        "endOffset": 376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2019,
+                    "endColumn": 42,
+                    "endOffset": 2057
+                },
+                "from": {
+                    "file": "C:\\test\\wz-master\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 289,
+                        "endColumn": 42,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2062,
+                    "endColumn": 46,
+                    "endOffset": 2104
+                },
+                "from": {
+                    "file": "C:\\test\\wz-master\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 46,
+                        "endOffset": 284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2109,
+                    "endColumn": 53,
+                    "endOffset": 2158
+                },
+                "from": {
+                    "file": "C:\\test\\wz-master\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 834,
+                        "endColumn": 53,
+                        "endOffset": 883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2163,
+                    "endColumn": 55,
+                    "endOffset": 2214
+                },
+                "from": {
+                    "file": "C:\\test\\wz-master\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1076,
+                        "endColumn": 55,
+                        "endOffset": 1127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2219,
+                    "endColumn": 43,
+                    "endOffset": 2258
+                },
+                "from": {
+                    "file": "C:\\test\\wz-master\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1032,
+                        "endColumn": 43,
+                        "endOffset": 1071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2263,
+                    "endColumn": 41,
+                    "endOffset": 2300
+                },
+                "from": {
+                    "file": "C:\\test\\wz-master\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 888,
+                        "endColumn": 41,
+                        "endOffset": 925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2305,
+                    "endColumn": 47,
+                    "endOffset": 2348
+                },
+                "from": {
+                    "file": "C:\\test\\wz-master\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 382,
+                        "endColumn": 47,
+                        "endOffset": 425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2353,
+                    "endColumn": 51,
+                    "endOffset": 2400
+                },
+                "from": {
+                    "file": "C:\\test\\wz-master\\wezone2\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 431,
+                        "endColumn": 51,
+                        "endOffset": 478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2405,
+                    "endColumn": 65,
+                    "endOffset": 2466
+                },
+                "from": {
+                    "file": "C:\\Users\\aaaa8\\.android\\build-cache\\14a4296f810e915282ac767b28df882414de49b1\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 65,
+                        "endOffset": 611
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Project\\Wezon\\android\\SlidingUpPanellibrary\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1184,
+                    "endColumn": 57,
+                    "endOffset": 1237
+                },
+                "from": {
+                    "file": "D:\\Project\\Wezon\\android\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 130,
+                        "endColumn": 57,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1242,
+                    "endColumn": 55,
+                    "endOffset": 1293
+                },
+                "from": {
+                    "file": "D:\\Project\\Wezon\\android\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 55,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1298,
+                    "endColumn": 53,
+                    "endOffset": 1347
+                },
+                "from": {
+                    "file": "D:\\Project\\Wezon\\android\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 611,
+                        "endColumn": 53,
+                        "endOffset": 660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1352,
+                    "endColumn": 52,
+                    "endOffset": 1400
+                },
+                "from": {
+                    "file": "D:\\Project\\Wezon\\android\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 496,
+                        "endColumn": 52,
+                        "endOffset": 544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1405,
+                    "endColumn": 59,
+                    "endOffset": 1460
+                },
+                "from": {
+                    "file": "D:\\Project\\Wezon\\android\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 59,
+                        "endOffset": 605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1465,
+                    "endColumn": 58,
+                    "endOffset": 1519
+                },
+                "from": {
+                    "file": "D:\\Project\\Wezon\\android\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endColumn": 58,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1524,
+                    "endColumn": 61,
+                    "endOffset": 1581
+                },
+                "from": {
+                    "file": "D:\\Project\\Wezon\\android\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 726,
+                        "endColumn": 61,
+                        "endOffset": 783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1586,
+                    "endColumn": 48,
+                    "endOffset": 1630
+                },
+                "from": {
+                    "file": "D:\\Project\\Wezon\\android\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 893,
+                        "endColumn": 48,
+                        "endOffset": 937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1635,
+                    "endColumn": 50,
+                    "endOffset": 1681
+                },
+                "from": {
+                    "file": "D:\\Project\\Wezon\\android\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 943,
+                        "endColumn": 50,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1686,
+                    "endColumn": 74,
+                    "endOffset": 1756
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\5775c4c06766206cef0eadd0eec5889b2f016429\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 74,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1761,
+                    "endColumn": 75,
+                    "endOffset": 1832
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\5775c4c06766206cef0eadd0eec5889b2f016429\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 75,
+                        "endOffset": 473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1837,
+                    "endColumn": 71,
+                    "endOffset": 1904
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\5775c4c06766206cef0eadd0eec5889b2f016429\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 478,
+                        "endColumn": 71,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1909,
+                    "endColumn": 48,
+                    "endOffset": 1953
+                },
+                "from": {
+                    "file": "D:\\Project\\Wezon\\android\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 340,
+                        "endColumn": 48,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1958,
+                    "endColumn": 42,
+                    "endOffset": 1996
+                },
+                "from": {
+                    "file": "D:\\Project\\Wezon\\android\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 296,
+                        "endColumn": 42,
+                        "endOffset": 334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2001,
+                    "endColumn": 46,
+                    "endOffset": 2043
+                },
+                "from": {
+                    "file": "D:\\Project\\Wezon\\android\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 46,
+                        "endOffset": 290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2048,
+                    "endColumn": 53,
+                    "endOffset": 2097
+                },
+                "from": {
+                    "file": "D:\\Project\\Wezon\\android\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 793,
+                        "endColumn": 53,
+                        "endOffset": 842
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2102,
+                    "endColumn": 55,
+                    "endOffset": 2153
+                },
+                "from": {
+                    "file": "D:\\Project\\Wezon\\android\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1042,
+                        "endColumn": 55,
+                        "endOffset": 1093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2158,
+                    "endColumn": 43,
+                    "endOffset": 2197
+                },
+                "from": {
+                    "file": "D:\\Project\\Wezon\\android\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 997,
+                        "endColumn": 43,
+                        "endOffset": 1036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2202,
+                    "endColumn": 41,
+                    "endOffset": 2239
+                },
+                "from": {
+                    "file": "D:\\Project\\Wezon\\android\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 848,
+                        "endColumn": 41,
+                        "endOffset": 885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2244,
+                    "endColumn": 47,
+                    "endOffset": 2287
+                },
+                "from": {
+                    "file": "D:\\Project\\Wezon\\android\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endColumn": 47,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2292,
+                    "endColumn": 51,
+                    "endOffset": 2339
+                },
+                "from": {
+                    "file": "D:\\Project\\Wezon\\android\\SlidingUpPanellibrary\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 443,
+                        "endColumn": 51,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2344,
+                    "endColumn": 65,
+                    "endOffset": 2405
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\5775c4c06766206cef0eadd0eec5889b2f016429\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 65,
+                        "endOffset": 611
+                    }
+                }
+            }
+        ]
+    }
+]

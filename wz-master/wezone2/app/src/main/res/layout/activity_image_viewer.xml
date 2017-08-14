@@ -1,0 +1,57 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000" >
+
+    <com.vinetech.ui.ToggleViewPager
+        android:id="@+id/image_viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/translucent_background" >
+
+        <View
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:clickable="true"
+            android:onClick="onClickCloseBtn" />
+
+        <LinearLayout
+            android:layout_width="30dp"
+            android:layout_height="50dp"
+            android:layout_alignParentRight="true" 
+            android:gravity="center">
+            <Button
+                android:id="@+id/Button_Album"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@drawable/transparent_background"
+                android:onClick="onClickAlbumBtn"
+                android:text="@string/album"
+                android:textColor="@android:color/white"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="22dp"
+            android:layout_height="22dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5.5dp"
+            android:background="@drawable/btn_image_close"
+            android:contentDescription="@string/app_name"
+            android:onClick="onClickCloseBtn" />
+
+        <TextView
+            android:id="@+id/TextView_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textColor="#ffffff" />
+    </RelativeLayout>
+
+</RelativeLayout>

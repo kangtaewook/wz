@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black"
+    android:animateLayoutChanges="true">
+
+    <include android:id="@+id/header_layout"
+        layout="@layout/header_layout"/>
+    
+    <com.vinetech.ui.ToggleViewPager
+        android:id="@+id/image_editor_viewpager"
+		android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:layout_marginTop="50dp"
+	    android:layout_marginBottom="40dp"
+	    android:layout_gravity="center_horizontal"
+
+		/>    
+  
+    <LinearLayout android:id="@+id/image_editor_bottom_layout"
+	    android:layout_width="match_parent"
+	    android:layout_height="40dp"
+	    android:layout_centerHorizontal="true"
+	    android:layout_alignParentBottom="true"
+	    android:gravity="center_horizontal"
+	    android:orientation="vertical"
+	    android:background="@android:color/black"
+	    >
+	    
+	    <LinearLayout
+		    android:layout_width="wrap_content"
+		    android:layout_height="match_parent"
+		    android:orientation="horizontal"
+		    >        
+	    
+        <ImageButton android:id="@+id/image_editor_rotate_imgbutton"
+           android:layout_width="22dp"
+           android:layout_height="22dp"
+           android:layout_gravity="center_vertical"
+           android:background="@drawable/selector_btn_rotation"
+           android:contentDescription="@string/app_name" 
+            />
+        
+        <View 
+           android:layout_width="1dp"
+           android:layout_height="match_parent"
+           android:layout_marginTop="3dp"
+           android:layout_marginBottom="3dp"
+           android:layout_marginLeft="25dp"
+           android:layout_marginRight="25dp"           
+           android:background="#555555"
+		/>
+        
+		<ImageButton android:id="@+id/image_editor_crop_imgbutton"
+           android:layout_width="22dp"
+           android:layout_height="22dp"
+           android:layout_gravity="center_vertical"
+           android:background="@drawable/selector_btn_crop"
+           android:contentDescription="@string/app_name"		    
+            />
+		</LinearLayout>
+    </LinearLayout>
+	 
+</RelativeLayout>

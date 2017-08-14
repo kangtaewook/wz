@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f7f7f7">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.tonicartos.widget.stickygridheaders.StickyGridHeadersGridView
+            android:id="@+id/grid_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:numColumns="2"
+            android:background="#f0f2f7"
+            fab:item_margin="10dp"/>
+
+    </LinearLayout>
+
+
+    <include
+        android:id="@+id/list_noresult"
+        android:visibility="gone"
+        layout="@layout/list_noresult" />
+
+    <LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:layout_centerHorizontal="true"
+        android:visibility="gone">
+
+
+    <!--여분 공간을 만들기 위해서!-->
+    <com.github.clans.fab.FloatingActionMenu
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginBottom="10dp"
+        android:padding="11dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        fab:menu_icon="@drawable/btn_more_black"
+        fab:menu_labels_style="@style/MenuLabelsStyle"
+        fab:fab_showAnimation="@anim/fab_scale_up"
+        fab:fab_hideAnimation="@anim/fab_scale_down"
+        fab:menu_labels_showAnimation="@anim/jump_from_down"
+        fab:menu_labels_hideAnimation="@anim/jump_to_down"
+        fab:menu_animationDelayPerItem="0"
+        fab:menu_shadowColor="#444"
+        fab:menu_colorNormal="#ffffff"
+        fab:menu_colorPressed="#fffff0"
+        fab:menu_colorRipple="#ededed"
+        fab:menu_labels_position="right"
+        android:visibility="invisible">
+    </com.github.clans.fab.FloatingActionMenu>
+
+    <com.github.clans.fab.FloatingActionMenu
+        android:id="@+id/fab_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginBottom="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        fab:menu_icon="@drawable/btn_more_black"
+        fab:menu_labels_style="@style/MenuLabelsStyle"
+        fab:fab_showAnimation="@anim/fab_scale_up"
+        fab:fab_hideAnimation="@anim/fab_scale_down"
+        fab:menu_labels_showAnimation="@anim/jump_from_down"
+        fab:menu_labels_hideAnimation="@anim/jump_to_down"
+        fab:menu_animationDelayPerItem="0"
+        fab:menu_shadowColor="#444"
+        fab:menu_colorNormal="#ffffff"
+        fab:menu_colorPressed="#fffff0"
+        fab:menu_colorRipple="#ededed"
+        fab:menu_labels_position="right"
+        fab:menu_fab_label="닫기"
+        style="@style/MenuButtonsStyleBlue"
+        >
+
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/fab_btn_search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/btn_search_white"
+            fab:fab_label="검색하기"
+            style="@style/MenuButtonsStyleBlue" />
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/fab_btn_regist_wezone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/btn_add_zone"
+            fab:fab_label="WeZON 생성"
+            style="@style/MenuButtonsStyleBlue" />
+
+    </com.github.clans.fab.FloatingActionMenu>
+</LinearLayout>
+
+</RelativeLayout>

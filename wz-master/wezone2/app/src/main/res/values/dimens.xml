@@ -1,0 +1,28 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="card_padding">60dp</dimen>
+
+    <dimen name="padding_size_40px">17.8px</dimen>
+
+    <dimen name="header_footer_left_right_padding">25dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">10dp</dimen>
+    <dimen name="header_footer_internal_padding">20dp</dimen>
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="fab_margin">10dp</dimen>
+
+    <dimen name="statusbar_height">25dp</dimen>
+
+    <dimen name="emoticon_image_width">24dp</dimen>
+    <dimen name="stickon_height">132dp</dimen>
+    <dimen name="stickon_width">130dp</dimen>
+    <dimen name="emoticon_image_width_mid">93dp</dimen>
+
+    <dimen name="dimen_123dp">123dp</dimen>
+    <dimen name="dimen_44dp">44dp</dimen>
+
+</resources>

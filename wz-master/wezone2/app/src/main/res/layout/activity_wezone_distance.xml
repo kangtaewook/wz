@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:rsv="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:weightSum="1">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_weight="0.86">
+
+        <RelativeLayout
+            android:id="@+id/fragmentHere"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_toEndOf="@+id/distance"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_toRightOf="@+id/distance">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:srcCompat="@drawable/mask_map"
+                android:id="@+id/imageView"
+                android:scaleType="fitXY"
+             />
+
+
+        </RelativeLayout>
+
+        <TextView
+            android:text="거리 범위를 정해 주세요"
+            android:textSize="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="33dp"
+            android:layout_marginStart="33dp"
+            android:layout_marginTop="45dp"
+            android:id="@+id/textView2"
+            android:textColor="#ffffff"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <ImageView
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/circle"
+            android:src="@drawable/im_gps_fixed" />
+
+        <TextView
+            android:text="100"
+            android:layout_width="70dp"
+            android:layout_height="35dp"
+            android:id="@+id/distance"
+            android:textSize="15pt"
+            android:layout_above="@+id/meter"
+            android:layout_alignStart="@+id/meter"
+            android:layout_alignLeft="@+id/meter"
+            android:textColor="#ffffff"/>
+
+        <TextView
+            android:text="METER"
+            android:layout_width="70dp"
+            android:layout_height="35dp"
+            android:layout_marginBottom="20dp"
+            android:id="@+id/meter"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="18dp"
+            android:textSize="8pt"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="18dp"
+            android:textColor="#ffffff"/>
+
+
+
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="73dp"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_weight="0.09"
+        android:weightSum="1">
+
+        <TextView
+            android:text="거리범위"
+            android:textSize="20dp"
+            android:layout_width="85dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView3"
+            android:layout_gravity="top|left"
+            android:gravity="center_horizontal" />
+
+        <com.vinetech.ui.RangeSliderView
+            android:id="@+id/rsv_small"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            rsv:filledColor="#1A5F77"
+            android:layout_weight="0.67" />
+
+
+    </LinearLayout>
+
+    <Button
+        android:text="다음"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button123"
+        android:layout_weight="0.06"
+        android:background="#ffffff"
+        android:textColor="#3399FF"/>
+
+</LinearLayout>
